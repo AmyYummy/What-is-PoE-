@@ -43,3 +43,5 @@ Depending on the PoE, it can be connected to a variety of devices to provide bot
 <a href="https://baudcom.cn">baudcom</a> offers all kinds of PoE devices. For more information, please feel free to contact us.
 
 Copy right by https://www.baudcom.cn
+baudcom.cn
+www.baudcom.cn
