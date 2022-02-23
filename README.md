@@ -41,3 +41,5 @@ Conclusion
 Depending on the PoE, it can be connected to a variety of devices to provide both power and data. Nowadays, more and more people are using PoE devices because it can save your business time and money. If you have any questions, you can contact Baudcom.
 
 <a href="https://baudcom.cn">baudcom</a> offers all kinds of PoE devices. For more information, please feel free to contact us.
+
+Copy right by https://www.baudcom.cn
